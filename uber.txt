@@ -1,0 +1,5 @@
+parameters = {
+    'server_token': 'aR-rl0cqLMIacx7oEv4Or_zQgZK-OHfZDm2C6oSn',
+    'latitude': 37.775818,
+    'longitude': -122.418028,
+}
